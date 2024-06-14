@@ -3536,11 +3536,11 @@
     prerequisites:
       - Запущена игра с ботом на уровне add_two_number на языке js
       - Введено решение: |
-        const solution = (n) => {
-          sum = 0
-          String(n).split('').map(str => sum += Number(str))
-          return sum;
-        };
+          const solution = (n) => {
+            sum = 0
+            String(n).split('').map(str => sum += Number(str))
+            return sum;
+          };
     test-data: |
       нет
     steps:
@@ -3556,11 +3556,11 @@
       - Запущена игра с ботом на уровне add_two_number на языке js
       - Текущая игра первая с ботом
       - Введено решение: |
-        const solution = (n) => {
-          sum = 0
-          String(n).split('').map(str => sum += Number(str))
-          return sum;
-        };
+          const solution = (n) => {
+            sum = 0
+            String(n).split('').map(str => sum += Number(str))
+            return sum;
+          };
     test-data: |
       нет
     steps:
@@ -3575,11 +3575,11 @@
     prerequisites:
       - Запущена игра с ботом на уровне add_two_number на языке js
       - Введено решение: |
-        const solution = (n) => {
-          sum = 0
-          String(n).split('').map(str => sum += Number(str))
-          return sum;
-        };
+          const solution = (n) => {
+            sum = 0
+            String(n).split('').map(str => sum += Number(str))
+            return sum;
+          };
       - Нажата кнопка Run и открыто окно с уведомлением о победе
     test-data: |
       нет
@@ -3595,11 +3595,11 @@
     prerequisites:
       - Запущена игра с ботом на уровне add_two_number на языке js
       - Введено решение: |
-        const solution = (n) => {
-          sum = 0
-          String(n).split('').map(str => sum += Number(str))
-          return sum;
-        };
+          const solution = (n) => {
+            sum = 0
+            String(n).split('').map(str => sum += Number(str))
+            return sum;
+          };
       - Нажата кнопка Run и открыто окно с уведомлением о победе
     test-data: |
       нет
@@ -3615,11 +3615,11 @@
     prerequisites:
       - Запущена игра с ботом на уровне add_two_number на языке js
       - Введено решение: |
-        const solution = (n) => {
-          sum = 0
-          String(n).split('').map(str => sum += Number(str))
-          return sum;
-        };
+          const solution = (n) => {
+            sum = 0
+            String(n).split('').map(str => sum += Number(str))
+            return sum;
+          };
       - Нажата кнопка Run и открыто окно с уведомлением о победе
     test-data: |
       нет
