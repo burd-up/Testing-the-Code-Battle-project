@@ -1541,8 +1541,8 @@
     status: pass
 
   - summary: |
-          Проверка перехода на страницу со списком турниров и формой для создания турнира по нажатию на ссылку Tournaments Info на вкладке tournaments
-        status: pass
+      Проверка перехода на страницу со списком турниров и формой для создания турнира по нажатию на ссылку Tournaments Info на вкладке tournaments
+    status: pass
 
     # history tab:
   - summary: |
