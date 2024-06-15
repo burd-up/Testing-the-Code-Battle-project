@@ -1,4 +1,4 @@
-# Проект: [Тестирование проекта Code Battle](https://github.com/burd-up/qa-engineer-project-85)
+# [Тестирование проекта Code Battle](https://github.com/burd-up/qa-engineer-project-85)
 
 ## Описание проекта
 В рамках этого проекта было проведено тестирование open-source приложения Code Battle. Целью проекта было улучшение качества приложения путем выявления багов.
